@@ -1,0 +1,13 @@
+{
+    "name": "giulio/test_infobase",
+    "authors": [
+        {
+            "name": "Giulio Augusto Martinelli",
+            "email": "giulioaugustomartinelli@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Martinelli\\": "src/"}
+    }
+}
